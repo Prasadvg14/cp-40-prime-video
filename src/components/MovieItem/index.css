@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.image {
+  height: 25vh;
+  width: 22vw;
+}
+
+.pop {
+  color: white;
+  background-color: #ffff;
+  padding: 30px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 34vw;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 8px;
+  padding-bottom: 20px;
+}
+
+.btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  font-size: 30px;
+  align-self: flex-end;
+}
